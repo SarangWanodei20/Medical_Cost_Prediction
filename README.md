@@ -5,9 +5,11 @@ Description
 Medical Cost Prediction is a Power BI project that analyzes healthcare expenses using aggregation functions and interactive dashboards. The project uses patient health data like BMI, age, diabetes, stress level, and insurance coverage to identify medical cost patterns and provide predictive insights for better healthcare decision-making.
 
 Overview
+
 This project provides an in-depth analysis of healthcare expenses using Power BI tools. Key medical and insurance metrics are visualized through an interactive dashboard. The project analyzes patient health data and predicts annual medical costs using aggregation functions and data visualization techniques.
 
 Aim
+
 The primary goal of this project is to analyze healthcare cost patterns, identify factors affecting medical expenses, and provide data-driven insights for better healthcare and insurance decision-making.
 
 Installation
@@ -19,7 +21,9 @@ DAX Query
 Excel / CSV Dataset
 
 Dashboard Insights
-<img width="3072" height="4200" alt="dashboard-2026-05-25" src="https://github.com/user-attachments/assets/d54974f3-2f35-4eef-8d85-1a94ef30e788" />
+
+<img width="3072" height="5880" alt="Final Dahboard" src="https://github.com/user-attachments/assets/69bb0120-e5b1-4f66-bffc-9dbf8ca5ef36" />
+
 
 
 Key Performance Indicators (KPIs): Total Medical Cost, Average BMI, Insurance Coverage %, Hospital Admissions
@@ -41,6 +45,7 @@ Data visualization using charts, graphs, KPI cards, slicers, and filters
 Predictive analysis and trend identification
 
 Conclusion
-This project demonstrates how Power BI can be used to analyze healthcare datasets and predict medical expenses effectively. The dashboard provides meaningful insights into patient health patterns and supports better decision-making for healthcare organizations and insurance providers.
 
 This project demonstrates how Power BI can be used to analyze healthcare datasets and predict medical expenses effectively. The dashboard provides meaningful insights into patient health patterns and supports better decision-making for healthcare organizations and insurance providers.
+
+
